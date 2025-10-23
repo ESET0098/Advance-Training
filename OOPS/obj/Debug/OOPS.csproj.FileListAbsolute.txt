@@ -1,0 +1,7 @@
+D:\BasicTraining\.Net\OOPS\bin\Debug\OOPS.exe.config
+D:\BasicTraining\.Net\OOPS\bin\Debug\OOPS.exe
+D:\BasicTraining\.Net\OOPS\bin\Debug\OOPS.pdb
+D:\BasicTraining\.Net\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\OOPS\obj\Debug\OOPS.exe
+D:\BasicTraining\.Net\OOPS\obj\Debug\OOPS.pdb

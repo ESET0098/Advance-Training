@@ -1,0 +1,8 @@
+D:\BasicTraining\.Net\DI\bin\Debug\DI.exe.config
+D:\BasicTraining\.Net\DI\bin\Debug\DI.exe
+D:\BasicTraining\.Net\DI\bin\Debug\DI.pdb
+D:\BasicTraining\.Net\DI\obj\Debug\DI.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\DI\obj\Debug\DI.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\DI\obj\Debug\DI.exe
+D:\BasicTraining\.Net\DI\obj\Debug\DI.pdb
+D:\BasicTraining\.Net\DI\obj\Debug\DI.exe.config
