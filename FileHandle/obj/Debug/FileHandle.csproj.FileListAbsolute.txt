@@ -1,0 +1,8 @@
+D:\BasicTraining\.Net\FileHandle\bin\Debug\FileHandle.exe.config
+D:\BasicTraining\.Net\FileHandle\bin\Debug\FileHandle.exe
+D:\BasicTraining\.Net\FileHandle\bin\Debug\FileHandle.pdb
+D:\BasicTraining\.Net\FileHandle\obj\Debug\FileHandle.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\FileHandle\obj\Debug\FileHandle.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\FileHandle\obj\Debug\FileHandle.exe
+D:\BasicTraining\.Net\FileHandle\obj\Debug\FileHandle.pdb
+D:\BasicTraining\.Net\FileHandle\obj\Debug\FileHandle.exe.config

@@ -1,0 +1,8 @@
+D:\BasicTraining\.Net\Simple1\bin\Debug\Simple1.exe.config
+D:\BasicTraining\.Net\Simple1\bin\Debug\Simple1.exe
+D:\BasicTraining\.Net\Simple1\bin\Debug\Simple1.pdb
+D:\BasicTraining\.Net\Simple1\obj\Debug\Simple1.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\Simple1\obj\Debug\Simple1.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\Simple1\obj\Debug\Simple1.exe
+D:\BasicTraining\.Net\Simple1\obj\Debug\Simple1.pdb
+D:\BasicTraining\.Net\Simple1\obj\Debug\Simple1.exe.config

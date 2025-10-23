@@ -1,0 +1,7 @@
+D:\BasicTraining\.Net\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\Inheritance\bin\Debug\Inheritance.exe.config
+D:\BasicTraining\.Net\Inheritance\bin\Debug\Inheritance.exe
+D:\BasicTraining\.Net\Inheritance\bin\Debug\Inheritance.pdb
+D:\BasicTraining\.Net\Inheritance\obj\Debug\Inheritance.exe
+D:\BasicTraining\.Net\Inheritance\obj\Debug\Inheritance.pdb

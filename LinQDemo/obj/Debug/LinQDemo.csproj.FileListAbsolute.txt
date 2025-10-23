@@ -1,0 +1,8 @@
+D:\BasicTraining\.Net\LinQDemo\obj\Debug\LinQDemo.csproj.AssemblyReference.cache
+D:\BasicTraining\.Net\LinQDemo\obj\Debug\LinQDemo.csproj.CoreCompileInputs.cache
+D:\BasicTraining\.Net\LinQDemo\bin\Debug\LinQDemo.exe.config
+D:\BasicTraining\.Net\LinQDemo\bin\Debug\LinQDemo.exe
+D:\BasicTraining\.Net\LinQDemo\bin\Debug\LinQDemo.pdb
+D:\BasicTraining\.Net\LinQDemo\obj\Debug\LinQDemo.exe
+D:\BasicTraining\.Net\LinQDemo\obj\Debug\LinQDemo.pdb
+D:\BasicTraining\.Net\LinQDemo\obj\Debug\LinQDemo.exe.config
